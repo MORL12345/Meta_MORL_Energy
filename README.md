@@ -33,3 +33,4 @@ GPI_PD
 
 
 This implementation is adapted from the work of Alegre et al. "Sample-Efficient Multi-Objective Learning via Generalized Policy Improvement Prioritization" Lucas N. Alegre, Ana L. C. Bazzan, Diederik M. Roijers, Ann Nowé, Bruno C. da Silva AAMAS 2023 Paper: https://arxiv.org/abs/2301.07784
+Also please refer to this implementation for evaluations for hypervolume, sparsity etc.
