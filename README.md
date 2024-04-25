@@ -8,7 +8,7 @@ We upload the general version of the implementation. The user need to tailor it 
 
 conda env create -f M_GPI.yml
 
-You can go to lauch_experiment.py to run the experiment. We give a example of the arguments for main function of Joint Training GPI-PD experiment. 
+The main algorithm is in \experiment\Meta_GPI_PD\meta_gpi_pd.py . You can go to lauch_experiment.py to run the experiment. We give a example of the arguments for main function of Joint Training GPI-PD experiment. 
 
 --baseline
 GPI_PD
